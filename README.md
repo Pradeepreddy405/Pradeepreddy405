@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - DevOps & Cloud Enthusiast
 - Docker | AWS | CI/CD
 - Learning every day 💪
