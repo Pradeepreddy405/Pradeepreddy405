@@ -6,8 +6,8 @@
 
 # 👋 Hi, I'm Pradeep Reddy
 
-🚀 Aspiring DevOps / Backend Engineer  
-🐳 Docker | ☁️ AWS | 🐧 Linux | 🧑‍💻 Flask  
+ Aspiring DevOps / Backend Engineer  
+ Docker |  AWS |  Linux | 
 
 ---
 
