@@ -1,13 +1,13 @@
-## 🐍 GitHub Contribution Snake
+# 👋 Hi, I'm Pradeep Reddy
+
+ Aspiring DevOps 
+ Linux | Git | Github | AWS | Jenkins | Gitlab |  Docker
 
 ![Snake animation](https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 👋 Hi, I'm Pradeep Reddy
 
- Aspiring DevOps / Backend Engineer  
- Docker |  AWS |  Linux | 
 
 ---
 
