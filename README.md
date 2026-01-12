@@ -3,7 +3,7 @@
  Aspiring DevOps 
  Linux | Git | Github | AWS | Jenkins | Gitlab |  Docker
 
-(https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
+![Activity](https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
