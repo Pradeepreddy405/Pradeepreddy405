@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Pradeep Reddy
+👋 Hi, I'm Pradeep Reddy
 
  Aspiring DevOps 
  Linux | Git | Github | AWS | Jenkins | Gitlab |  Docker
 
-![Snake animation](https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
