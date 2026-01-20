@@ -1,6 +1,7 @@
 👋 Hi, I'm Pradeep Reddy
 
- Aspiring DevOps 
+ Aspiring DevOps Engineer :)
+ 
  Linux | Git | Github | AWS | Jenkins | Gitlab |  Docker
 
 ![Activity](https://github.com/Pradeepreddy405/Pradeepreddy405/blob/output/github-contribution-grid-snake.svg)
