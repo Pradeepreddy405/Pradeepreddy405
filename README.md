@@ -1,14 +1,16 @@
-
-
-
-
-
-
-
-
-
+# 👋 Hi, I'm Pradeep Reddy  
+###  DevOps Engineer | Cloud | Kubernetes | CI/CD
 
 ---
+
+## Activity flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pradeepraddy405/Pradeepraddy405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 
