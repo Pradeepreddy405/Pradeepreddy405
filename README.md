@@ -1,30 +1,13 @@
-👋 Hi, I'm Pradeep Reddy
+## 🐍 Contribution Snake
 
- Aspiring DevOps Engineer :)
- 
- Linux | Git | Github | AWS | Jenkins | Gitlab |  Docker | Kubernetes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pradeepraddy405/Pradeepraddy405/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-
 ## 🛠️ Tech Stack
+
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +27,3 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
