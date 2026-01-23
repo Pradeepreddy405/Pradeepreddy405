@@ -1,14 +1,3 @@
-## Activity 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pradeepraddy405/Pradeepraddy405/output/github-contribution-grid-snake.svg" />
-</p>
-
-<br><br>
-
-
----
-
 ## 🛠️ Tech Stack
 
 
