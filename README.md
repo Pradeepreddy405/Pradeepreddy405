@@ -1,9 +1,42 @@
-## 🐍 Activity Flow
+# 👋 Hi, I'm Pradeep Reddy
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Pradeepraddy405/Pradeepraddy405/main/output/github-contribution-grid-snake-dark.svg)
-
+ **DevOps Engineer**  
+💻 Passionate about Cloud, Automation, CI/CD & Kubernetes  
+📍 India
 
 ---
+
+## 👨‍💻 About Me
+
+- 🔧 DevOps Engineer with hands-on experience in **Linux, Git, Docker, Kubernetes**
+- ☁️ Working with **AWS Cloud services**
+- 🔄 Building and maintaining **CI/CD pipelines**
+- 📦 Containerization & orchestration using **Docker & Kubernetes**
+- 📊 Monitoring, logging, and reliability-focused mindset
+- 📈 Continuously learning to grow towards a **high-impact DevOps role**
+
+---
+
+## 🛠️ Tech Stack
+
+**Operating Systems**  
+- Linux (Ubuntu, Amazon Linux)
+
+**DevOps & Cloud**  
+- AWS  
+- Docker  
+- Kubernetes  
+- Git & GitHub  
+- CI/CD (GitHub Actions, Jenkins )
+
+**Monitoring & Tools**  
+- Prometheus (learning)  
+- Grafana (learning)  
+- Shell Scripting (Bash)
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
