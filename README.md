@@ -28,11 +28,12 @@
 - Kubernetes  
 - Git & GitHub  
 - CI/CD (GitHub Actions, Jenkins )
+- Shell Scripting 
 
 **Monitoring & Tools**  
-- Prometheus (learning)  
-- Grafana (learning)  
-- Shell Scripting (Bash)
+- Prometheus 
+- Grafana 
+
 
 ---
 
