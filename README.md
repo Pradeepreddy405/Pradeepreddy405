@@ -8,16 +8,16 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 DevOps Engineer with hands-on experience in **Linux, Git, Docker, Kubernetes**
-- ☁️ Working with **AWS Cloud services**
-- 🔄 Building and maintaining **CI/CD pipelines**
-- 📦 Containerization & orchestration using **Docker & Kubernetes**
-- 📊 Monitoring, logging, and reliability-focused mindset
-- 📈 Continuously learning to grow towards a **high-impact DevOps role**
+-  DevOps Engineer with hands-on experience in **Linux, Git, Docker, Kubernetes**
+-  Working with **AWS Cloud services**
+-  Building and maintaining **CI/CD pipelines**
+-  Containerization & orchestration using **Docker & Kubernetes**
+-  Monitoring, logging, and reliability-focused mindset
+-  Continuously learning to grow towards a **high-impact DevOps role**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Operating Systems**  
 - Linux (Ubuntu, Amazon Linux)
@@ -40,7 +40,8 @@
 ---
 
 
-## 🛠️ Tech Stack
+## 
+Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
