@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pradeep Reddy.L
+# 👋 Hi, I'm L.Pradeep Reddy
 
 ### 🚀 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Linux
 
