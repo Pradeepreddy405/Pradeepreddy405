@@ -1,8 +1,8 @@
 # 👋 Hi, I'm L.Pradeep Reddy
 
-### 🚀 DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Linux
+### Cloud & DevOps Engineer | AWS | Linux | Git | CI/CD | Jenkins | GitHub Actions | Docker | Kubernetes | Terraform | Ansible | Monitoring | DevSecOps
 
-I am a **DevOps & Cloud Engineer** focused on building, automating, and maintaining reliable cloud infrastructure and deployment pipelines.
+I am a **DevOps & Cloud Engineer** focused on **Building**, **Automating**, and **Maintaining** reliable cloud infrastructure and deployment pipelines.
 
 My interests include **AWS Cloud, Infrastructure as Code, Kubernetes, CI/CD automation, Linux administration, DevSecOps, monitoring, and cloud automation.**
 
