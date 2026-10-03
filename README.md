@@ -119,7 +119,7 @@ ask_me_about:
 
 ---
 
-# 🚀 Featured DevOps Projects
+#  Featured DevOps Projects
 
 ## ☁️ AWS Infrastructure with Terraform
 
@@ -283,7 +283,7 @@ AI/GenAI for DevOps
 
 ---
 
-# 🧠 DevOps Philosophy
+#  DevOps Philosophy
 
 > **Automate repetitive work.**
 
@@ -326,21 +326,7 @@ AI/GenAI for DevOps
 
 ---
 
-# 🎯 2026 Goals
 
-```text
-☑ Strengthen Linux fundamentals
-☑ Build production-style AWS projects
-☑ Master Terraform
-☑ Strengthen Kubernetes
-☑ Build advanced CI/CD pipelines
-☑ Implement GitOps with ArgoCD
-☑ Improve DevSecOps practices
-☑ Build monitoring & observability projects
-☑ Automate infrastructure with Ansible
-☑ Develop Python automation skills
-☑ Explore AI/GenAI for DevOps
-```
 
 ---
 
