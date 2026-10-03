@@ -253,13 +253,18 @@ Monitoring infrastructure and containerized workloads using metrics, dashboards,
 
 ---
 
-# Interested in learning DevOps from scratch? Give it a shot!
-Follow my DevOps Learning Journey — from Linux fundamentals to AWS, Docker, Kubernetes, Terraform, CI/CD, monitoring, and real-world projects.
-Just learn → practice → build → document → improve.
-If you're starting your DevOps journey, come along and learn with me. 🐧☁️⚙️
+## Interested in learning DevOps from scratch? Give it a shot!
+1 Follow my DevOps Learning Journey from Linux fundamentals to AWS, Docker, Kubernetes, Terraform, CI/CD, monitoring, and real-world projects.
+    
+    ```
+      Just learn → practice → build → document → improve.
+      
+    ```
+ If you're starting your DevOps journey, come along and learn with me. 🐧☁️⚙️
 
-https://github.com/Pradeepreddy405/Devops_Course_preparation
-
+  ```
+      https://github.com/Pradeepreddy405/Devops_Course_preparation
+  ``` 
 ```text
 Linux
   ↓
