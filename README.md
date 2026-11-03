@@ -305,33 +305,25 @@ AI/GenAI for DevOps
 
 ---
 
-# 📈 GitHub Analytics
-
-
+📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pradeepreddy405&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pradeepreddy405&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-
-
-
----
-
-# 🐍 Contribution Graph
+🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
-
 ---
 
 
