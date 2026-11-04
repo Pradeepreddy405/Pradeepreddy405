@@ -58,11 +58,11 @@ Documenting Linux, AWS, Terraform, Docker, Kubernetes, Ansible, CI/CD and real-w
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
