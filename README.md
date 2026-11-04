@@ -415,24 +415,37 @@ I regularly document my technical learning, hands-on labs, troubleshooting exper
 
 ---
 
+
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pradeepreddy405&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepreddy405&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pradeepreddy405&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Pradeepreddy405&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
