@@ -85,11 +85,22 @@ Currently focusing on:
 
 ---
 
-## 📈 GitHub Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradeepreddy405&theme=github-compact&hide_border=true)
+## 📊 GitHub Contributions
 
-[View my GitHub contributions and repositories](https://github.com/Pradeepreddy405)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Pradeepreddy405/Pradeepreddy405/output/github-snake-dark.svg"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pradeepreddy405">
+    View my GitHub profile and contributions
+  </a>
+</p>
+
 
 ---
 
